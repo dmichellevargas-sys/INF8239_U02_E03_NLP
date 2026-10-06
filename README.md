@@ -106,6 +106,9 @@ git commit -m "docs: README and AI use statement"
 git tag u02-ejercicio03
 ```
 
+## Uso de IA
+Ver `docs/AI_USE.md`.
+
 ## Referencias
 - Gómez-Adorno, H., Posadas-Durán, J. P., Bel Enguix, G., & Porto Capetillo, C. (2021). Overview of FakeDeS at IberLEF 2021: Fake news detection in Spanish shared task. *Procesamiento del Lenguaje Natural, 67*, 223–231.
 - Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The elements of statistical learning* (2.ª ed.). Springer.
