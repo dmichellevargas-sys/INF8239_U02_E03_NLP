@@ -1,0 +1,3 @@
+name,url,license,language,rows,target,leakage_risk,decision
+The Spanish Fake News Corpus (v1.0 + v2.0),https://github.com/jpposadas/FakeNewsCorpusSpanish,CC BY 4.0,Español,971 (v1.0) + 572 (v2.0),Category: Fake / True (balanceado),Alto por medio (source/link) y token NUMBER; controlable excluyendo columnas,Seleccionado: español; partición oficial; corpus externo posterior para evaluar generalización
+SMS Spam Collection (UCI),https://archive.ics.uci.edu/dataset/228/sms+spam+collection,CC BY 4.0,Inglés,5574,ham / spam (aprox. 87/13),Duplicados frecuentes entre mensajes,Descartado: idioma inglés; benchmark muy utilizado (alto riesgo de repetirse en el grupo)

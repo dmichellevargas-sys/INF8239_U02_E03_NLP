@@ -1,0 +1,151 @@
+source,rows,majority_label,purity
+el dizque,135,fake,1.0
+el ruinaversal,94,fake,1.0
+el país,75,true,1.0
+el universal,69,true,0.9855072463768116
+excelsior,45,true,1.0
+hay noticia,39,fake,1.0
+censura 0,36,fake,1.0
+forbes,34,true,1.0
+huffpost,26,true,1.0
+proceso,25,true,1.0
+la voz popular,24,fake,1.0
+el financiero,22,true,1.0
+modo noticia,22,fake,1.0
+milenio,18,true,1.0
+retroceso,17,fake,1.0
+bbc news,17,true,1.0
+aristegui noticias,14,true,1.0
+la jornada,13,true,1.0
+el mundo today,11,fake,1.0
+mvs noticias,10,true,1.0
+argumento político,9,fake,1.0
+abc,8,true,1.0
+bbc,7,true,1.0
+cnnespañol,7,true,1.0
+el economista,7,true,1.0
+cnn en español,7,true,1.0
+el pais,5,true,1.0
+cnn español,5,true,1.0
+nación unida,5,fake,1.0
+la vanguardia,4,true,1.0
+expansión,4,true,1.0
+la otra opinion,4,fake,1.0
+inciclopedia,3,fake,1.0
+la nacion,3,true,1.0
+marca,3,true,1.0
+modonoticia,3,fake,1.0
+medio tiempo,3,true,1.0
+el sol de méxico,3,true,1.0
+record,3,true,1.0
+lo que calla la tv,3,fake,1.0
+la opinion,2,true,1.0
+merca2.0,2,fake,0.5
+hola,2,true,1.0
+heraldo,2,true,1.0
+hispantv,2,fake,1.0
+el heraldo,2,true,1.0
+el mundo,2,true,1.0
+el clarin,2,true,1.0
+lamula,2,fake,1.0
+azteca deporte,2,true,1.0
+alerta digital,2,fake,1.0
+animal politico,2,true,1.0
+animal político,2,true,1.0
+hola méxico,2,true,1.0
+radio formula,2,true,1.0
+quien,2,true,1.0
+rey misterios,2,fake,1.0
+publimetro,2,fake,0.5
+todo informe,2,fake,1.0
+clarin,1,fake,1.0
+caracol radio,1,fake,1.0
+carlosagaton.blogspot.com,1,fake,1.0
+abc el recreo,1,fake,1.0
+abc noticias,1,fake,1.0
+20 minutos,1,fake,1.0
+caras,1,true,1.0
+billboard,1,true,1.0
+anonymous  azteca,1,fake,1.0
+abc sociedad,1,fake,1.0
+actualidad rt,1,fake,1.0
+el milenio,1,true,1.0
+el nuevo dia,1,fake,1.0
+el mañana,1,fake,1.0
+el espectador,1,true,1.0
+el grafico,1,true,1.0
+el librero de gutenberg,1,fake,1.0
+el mañana global,1,fake,1.0
+cuba debate,1,fake,1.0
+diario de ibiza,1,true,1.0
+diario cambio,1,fake,1.0
+eco portal,1,fake,1.0
+el buen tono,1,fake,1.0
+el coleccionista de datos,1,fake,1.0
+denuncias mx,1,fake,1.0
+criterio universal,1,fake,1.0
+denunciasmx.com,1,fake,1.0
+la neta virtual,1,fake,1.0
+konbini,1,fake,1.0
+info bae,1,fake,1.0
+jornada,1,true,1.0
+hipertextual,1,true,1.0
+heraldo de méxico,1,true,1.0
+http://www2.esmas.com,1,fake,1.0
+elle,1,true,1.0
+exclusivas puebla,1,fake,1.0
+facebook /el señor lópez,1,fake,1.0
+fifa,1,true,1.0
+facebook unico noticias,1,fake,1.0
+fisgon politico,1,fake,1.0
+frentes politicos,1,fake,1.0
+grandes medios,1,fake,1.0
+grupo fórmula,1,fake,1.0
+enpareja.com,1,fake,1.0
+espn,1,true,1.0
+es diario,1,fake,1.0
+eje central,1,fake,1.0
+dos mundos,1,true,1.0
+diario del huila,1,fake,1.0
+news week español,1,true,1.0
+newsner,1,fake,1.0
+mediterraneo digital,1,fake,1.0
+los replicantes,1,fake,1.0
+la red 21,1,fake,1.0
+la verdad.es,1,fake,1.0
+muy interesante,1,true,1.0
+nacion321,1,true,1.0
+la parada digital,1,true,1.0
+la prensa,1,true,1.0
+playgroundmag,1,fake,1.0
+people en español,1,true,1.0
+parabólica,1,fake,1.0
+pan tweet,1,fake,1.0
+opinión,1,fake,1.0
+novedades quitana roo,1,fake,1.0
+noticieros televisa,1,fake,1.0
+nippon,1,true,1.0
+resumen latinoamericano,1,fake,1.0
+sabor a merengue,1,fake,1.0
+sdp noticias,1,true,1.0
+sdpnoticias,1,fake,1.0
+sin embargo,1,fake,1.0
+su medico,1,true,1.0
+telemundo,1,true,1.0
+razon,1,fake,1.0
+televisa deporte,1,true,1.0
+texto noticias,1,fake,1.0
+tiempo,1,true,1.0
+the new york times,1,true,1.0
+tiempo digital,1,fake,1.0
+tribuna noticias,1,true,1.0
+tv notas,1,true,1.0
+twitter,1,fake,1.0
+twitter - calderon,1,fake,1.0
+twitter -ricardo aleman,1,fake,1.0
+twitter-calderon,1,fake,1.0
+twitter-rafael ramirez,1,fake,1.0
+twitter-simmsa,1,fake,1.0
+universo deportivo,1,true,1.0
+uno cero,1,fake,1.0
+voz del sur,1,fake,1.0

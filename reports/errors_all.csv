@@ -1,0 +1,61 @@
+id,topic,source,label,predicted,confidence,words,error_type
+3,Education,abc,true,fake,0.5588,359,FN: verdadera predicha como falsa
+15,Society,El Universal,true,fake,0.613,1621,FN: verdadera predicha como falsa
+21,Society,El Dizque,fake,true,0.5569,242,FP: falsa predicha como verdadera
+22,Society,Milenio,true,fake,0.7243,132,FN: verdadera predicha como falsa
+32,Society,Actualidad RT,fake,true,0.6901,275,FP: falsa predicha como verdadera
+34,Society,Diario Cambio,fake,true,0.5545,308,FP: falsa predicha como verdadera
+44,Society,ARGUMENTO POLÍTICO,fake,true,0.7983,225,FP: falsa predicha como verdadera
+54,Science,El País,true,fake,0.5509,568,FN: verdadera predicha como falsa
+55,Science,Muy Interesante,true,fake,0.5915,302,FN: verdadera predicha como falsa
+60,Science,La voz popular,fake,true,0.6471,261,FP: falsa predicha como verdadera
+61,Science,ABC EL RECREO,fake,true,0.6445,330,FP: falsa predicha como verdadera
+71,Science,El Universal,true,fake,0.5304,298,FN: verdadera predicha como falsa
+75,Science,Rey Misterios,fake,true,0.6344,522,FP: falsa predicha como verdadera
+76,Security,EL UNIVERSAL,true,fake,0.5612,225,FN: verdadera predicha como falsa
+87,Security,Censura 0,fake,true,0.5861,210,FP: falsa predicha como verdadera
+89,Health,El país,true,fake,0.6635,173,FN: verdadera predicha como falsa
+91,Health,Novedades Quitana Roo,fake,true,0.6813,364,FP: falsa predicha como verdadera
+102,Health,El País,true,fake,0.5847,767,FN: verdadera predicha como falsa
+103,Economy,Alerta digital,fake,true,0.7841,379,FP: falsa predicha como verdadera
+107,Economy,Lamula,fake,true,0.6547,643,FP: falsa predicha como verdadera
+108,Economy,Info bae,fake,true,0.7077,1142,FP: falsa predicha como verdadera
+115,Economy,Voz del Sur,fake,true,0.5344,530,FP: falsa predicha como verdadera
+124,Sport,El Universal,true,fake,0.6502,466,FN: verdadera predicha como falsa
+125,Sport,El Universal,true,fake,0.5354,148,FN: verdadera predicha como falsa
+126,Sport,EL UNIVERSAL,true,fake,0.637,260,FN: verdadera predicha como falsa
+127,Sport,El país,true,fake,0.5646,674,FN: verdadera predicha como falsa
+128,Sport,La Opinion,true,fake,0.5895,237,FN: verdadera predicha como falsa
+129,Sport,Hay noticia,fake,true,0.5569,524,FP: falsa predicha como verdadera
+130,Sport,El Dizque,fake,true,0.622,273,FP: falsa predicha como verdadera
+132,Sport,El Dizque,fake,true,0.5736,215,FP: falsa predicha como verdadera
+148,Sport,Milenio,true,fake,0.6249,220,FN: verdadera predicha como falsa
+152,Sport,ESPN,true,fake,0.6544,219,FN: verdadera predicha como falsa
+155,Politics,El Ruinaversal,fake,true,0.6335,315,FP: falsa predicha como verdadera
+159,Politics,ARGUMENTO POLÍTICO,fake,true,0.9192,294,FP: falsa predicha como verdadera
+161,Politics,El Financiero,true,fake,0.5447,401,FN: verdadera predicha como falsa
+173,Politics,Excelsior,true,fake,0.7296,207,FN: verdadera predicha como falsa
+181,Politics,Criterio Universal,fake,true,0.9151,1194,FP: falsa predicha como verdadera
+187,Politics,Hay noticia,fake,true,0.5631,176,FP: falsa predicha como verdadera
+203,Politics,Mediterraneo digital,fake,true,0.6247,386,FP: falsa predicha como verdadera
+207,Politics,Sin embargo,fake,true,0.8901,667,FP: falsa predicha como verdadera
+213,Politics,Retroceso,fake,true,0.7243,176,FP: falsa predicha como verdadera
+218,Politics,Excelsior,true,fake,0.5269,688,FN: verdadera predicha como falsa
+222,Politics,Proceso,true,fake,0.5509,261,FN: verdadera predicha como falsa
+232,Politics,Grupo Fórmula,fake,true,0.5754,184,FP: falsa predicha como verdadera
+233,Politics,Inciclopedia,fake,true,0.5754,573,FP: falsa predicha como verdadera
+236,Politics,Modo Noticia,fake,true,0.5408,211,FP: falsa predicha como verdadera
+244,Politics,Retroceso,fake,true,0.5211,137,FP: falsa predicha como verdadera
+253,Entertainment,Radio Formula,true,fake,0.7551,178,FN: verdadera predicha como falsa
+259,Entertainment,Medio Tiempo,true,fake,0.5797,233,FN: verdadera predicha como falsa
+260,Entertainment,http://www2.esmas.com,fake,true,0.5554,276,FP: falsa predicha como verdadera
+261,Entertainment,Cuba debate,fake,true,0.6468,321,FP: falsa predicha como verdadera
+266,Entertainment,Censura 0,fake,true,0.5854,210,FP: falsa predicha como verdadera
+268,Entertainment,La vanguardia,true,fake,0.5308,353,FN: verdadera predicha como falsa
+270,Entertainment,El Universal,true,fake,0.6138,299,FN: verdadera predicha como falsa
+279,Entertainment,Excelsior,true,fake,0.674,446,FN: verdadera predicha como falsa
+282,Entertainment,ELLE,true,fake,0.5547,305,FN: verdadera predicha como falsa
+283,Entertainment,Huffpost,true,fake,0.5115,155,FN: verdadera predicha como falsa
+289,Entertainment,EL UNIVERSAL,true,fake,0.7111,395,FN: verdadera predicha como falsa
+292,Entertainment,La voz popular,fake,true,0.5789,286,FP: falsa predicha como verdadera
+294,Entertainment,EL UNIVERSAL,true,fake,0.5506,174,FN: verdadera predicha como falsa

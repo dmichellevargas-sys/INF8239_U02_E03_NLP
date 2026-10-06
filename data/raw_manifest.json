@@ -1,0 +1,35 @@
+{
+  "corpus": "The Spanish Fake News Corpus",
+  "license": "CC BY 4.0",
+  "commit": "732f4870abd8d3f5ab4956fd92b040a7913614e3",
+  "files": [
+    {
+      "name": "train",
+      "file": "data/raw/train.xlsx",
+      "url": "https://raw.githubusercontent.com/jpposadas/FakeNewsCorpusSpanish/732f4870abd8d3f5ab4956fd92b040a7913614e3/train.xlsx",
+      "sha256": "b091a8fa842ea4c2c9b9c28fe0ed28d6ed8da797ced282c5a4dcd71af2e3c67a"
+    },
+    {
+      "name": "development",
+      "file": "data/raw/development.xlsx",
+      "url": "https://raw.githubusercontent.com/jpposadas/FakeNewsCorpusSpanish/732f4870abd8d3f5ab4956fd92b040a7913614e3/development.xlsx",
+      "sha256": "5a894152170242cb07248d264157b4d3884d86ef42e5ba22e5a6a638787dce57"
+    },
+    {
+      "name": "external_v2",
+      "file": "data/raw/test.xlsx",
+      "url": "https://raw.githubusercontent.com/jpposadas/FakeNewsCorpusSpanish/732f4870abd8d3f5ab4956fd92b040a7913614e3/test.xlsx",
+      "sha256": "11e38355804f86cfac3aeddcb78208cb175d369831f551f9d8fe49353c582763"
+    }
+  ],
+  "processed": {
+    "corpus.csv": {
+      "rows": 971,
+      "sha256": "80e9d0ef1727da17be62035a1ba1982c485ddaa446b2e9f6f7b438ed346611c7"
+    },
+    "external_v2.csv": {
+      "rows": 572,
+      "sha256": "82f6501406d4daf49b03413b48d65f508906d12bb1aa96bee63695bb1c1b5a91"
+    }
+  }
+}

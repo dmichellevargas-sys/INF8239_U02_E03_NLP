@@ -1,0 +1,93 @@
+{
+  "rows": 971,
+  "columns": [
+    "id",
+    "split",
+    "label",
+    "topic",
+    "source",
+    "link",
+    "text"
+  ],
+  "nulls": {
+    "id": 0,
+    "split": 0,
+    "label": 0,
+    "topic": 0,
+    "source": 0,
+    "link": 0,
+    "text": 0
+  },
+  "empty_text": 0,
+  "label_distribution": {
+    "true": 491,
+    "fake": 480
+  },
+  "label_by_split": {
+    "development": {
+      "true": 153,
+      "fake": 142
+    },
+    "train": {
+      "fake": 338,
+      "true": 338
+    }
+  },
+  "topics": {
+    "Politics": 323,
+    "Entertainment": 148,
+    "Society": 134,
+    "Sport": 124,
+    "Science": 89,
+    "Health": 46,
+    "Economy": 43,
+    "Security": 42,
+    "Education": 22
+  },
+  "chars_by_label": {
+    "fake": {
+      "count": 480.0,
+      "mean": 1811.4,
+      "std": 947.2,
+      "min": 124.0,
+      "25%": 1250.0,
+      "50%": 1621.5,
+      "75%": 2289.5,
+      "max": 10035.0
+    },
+    "true": {
+      "count": 491.0,
+      "mean": 2886.2,
+      "std": 2103.6,
+      "min": 326.0,
+      "25%": 1577.5,
+      "50%": 2341.0,
+      "75%": 3500.0,
+      "max": 15344.0
+    }
+  },
+  "median_words": 315.0,
+  "duplicates": {
+    "exact_duplicates": 5,
+    "normalized_duplicates": 5,
+    "cross_development_train": 4,
+    "duplicates_with_conflicting_label": 0
+  },
+  "sources": 150,
+  "pure_sources": 147,
+  "rows_in_pure_sources": 898,
+  "source_mentioned_in_text": 70,
+  "share_with_NUMBER_token_by_label": {
+    "fake": 0.66,
+    "true": 0.88
+  },
+  "share_with_digits_by_label": {
+    "fake": 0.027,
+    "true": 0.077
+  },
+  "sha256_corpus_csv": "80e9d0ef1727da17be62035a1ba1982c485ddaa446b2e9f6f7b438ed346611c7",
+  "leakage_source_only_model": {
+    "f1_macro_mean": 0.9263986502149049,
+    "f1_macro_std": 0.010054371293256646
+  }
+}

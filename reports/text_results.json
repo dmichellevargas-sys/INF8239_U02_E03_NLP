@@ -1,0 +1,43 @@
+{
+  "split": {
+    "train_rows": 676,
+    "test_rows": 290,
+    "removed_dup_in_train": 0,
+    "removed_dup_in_test": 1,
+    "removed_cross_split": 4
+  },
+  "selected_model": "tfidf_word_logreg",
+  "selection_rule": "regla de 1 error estándar sobre F1 macro CV en train; entre elegibles, menor tiempo de ajuste",
+  "mcnemar_tfidf_word_logreg_vs_tfidf_char_svm": {
+    "only_a_correct": 14,
+    "only_b_correct": 17,
+    "p_value": 0.720100131817162
+  },
+  "external_v2_selected": {
+    "accuracy": 0.6835664335664335,
+    "f1_macro": 0.6725318589696956,
+    "precision_fake": 0.7900552486187845,
+    "recall_fake": 0.5,
+    "f1_fake": 0.6124197002141327,
+    "support_fake": 286,
+    "precision_true": 0.6342710997442456,
+    "recall_true": 0.8671328671328671,
+    "f1_true": 0.7326440177252584,
+    "support_true": 286,
+    "rows": 572,
+    "f1_ci95": [
+      0.6312114119982939,
+      0.7103520960840667
+    ],
+    "ablation_keep_digits_f1_macro": 0.7277553790267854,
+    "ablation_keep_digits_recall_fake": 0.6608391608391608
+  },
+  "errors_in_test_selected": 60,
+  "environment": {
+    "python": "3.12.13",
+    "platform": "Linux-6.18.44-fc-v70-x86_64-with-glibc2.39",
+    "processor": "x86_64",
+    "scikit_learn": "1.9.1",
+    "pandas": "2.3.3"
+  }
+}
